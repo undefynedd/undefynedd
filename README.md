@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Awesomecat713
-- 👀 I’m interested in cats
-- 🌱 I’m currently learning python
+Hi, I’m @Awesomecat713! I like programming, and am currently learning Javascript and Python.
 
 <!---
 Awesomecat713/Awesomecat713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
